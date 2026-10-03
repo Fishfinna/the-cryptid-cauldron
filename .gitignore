@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 # Godot 4+ specific ignores
 .godot/
 /android/
+=======
+**/backupAssets
+*.kra
+**/Logs
+**/Library/
+>>>>>>> 1f00a598cb67be2c0e251840c52dcc529af3f9ce
